@@ -1,4 +1,4 @@
 # hello-world
-My Start
+My Start.
 Decaf is for the weak!
-Filtered Coffee is Love
+Filtered Coffee is Love.
